@@ -1,0 +1,5 @@
+{
+  "name": "Anime Gallery",
+  "description": "A sleek, responsive application to manage and display your personal anime library. Catalog entries with detailed information, track your watch status, rate your favorites, and filter your collection with ease.",
+  "requestFramePermissions": []
+}
